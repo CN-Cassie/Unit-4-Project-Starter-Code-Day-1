@@ -1,0 +1,27 @@
+img {
+    height: 200px;
+}
+
+div {
+    background-color: green;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    border: dashed 5px yellow;
+    Padding: 8px;
+    Margin: 10px;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+h1 {
+    color: purple;
+}
